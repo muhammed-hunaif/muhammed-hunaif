@@ -1,5 +1,12 @@
-<h1 align="center">Hi, I'm Muhammed Hunaif 👋</h1>
-<h3 align="center">Full Stack Developer | React.js • Next.js • Node.js • NestJS</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Muhammed%20Hunaif%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/muhammed-hunaif">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js+%7C+NestJS;Building+scalable+web+applications;Open+to+Frontend+%26+Full+Stack+roles" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://my-portfolio-ja1w.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -90,3 +97,7 @@
 - 🌐 Portfolio: [my-portfolio-ja1w.vercel.app](https://my-portfolio-ja1w.vercel.app/)
 - 💼 LinkedIn: [muhammedhunaif09](https://www.linkedin.com/in/muhammedhunaif09)
 - 📧 Email: [hunaif1709@gmail.com](mailto:hunaif1709@gmail.com)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+</p>
