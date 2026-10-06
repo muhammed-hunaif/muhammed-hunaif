@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammed Hunaif 👋</h1>
-<h3 align="center">Full Stack Developer from India | React.js • Next.js • Node.js • NestJS</h3>
+<h3 align="center">Full Stack Developer | React.js • Next.js • Node.js • NestJS</h3>
 
 <p align="center">
   <a href="https://my-portfolio-ja1w.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
